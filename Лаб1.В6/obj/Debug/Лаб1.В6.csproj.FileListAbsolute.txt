@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Лаб1.В6\bin\Debug\Лаб1.В6.exe.config
+C:\Users\User\source\repos\Лаб1.В6\bin\Debug\Лаб1.В6.exe
+C:\Users\User\source\repos\Лаб1.В6\bin\Debug\Лаб1.В6.pdb
+C:\Users\User\source\repos\Лаб1.В6\obj\Debug\Лаб1.В6.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Лаб1.В6\obj\Debug\Лаб1.В6.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Лаб1.В6\obj\Debug\Лаб1.В6.Form1.resources
+C:\Users\User\source\repos\Лаб1.В6\obj\Debug\Лаб1.В6.Properties.Resources.resources
+C:\Users\User\source\repos\Лаб1.В6\obj\Debug\Лаб1.В6.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Лаб1.В6\obj\Debug\Лаб1.В6.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Лаб1.В6\obj\Debug\Лаб1.В6.exe
+C:\Users\User\source\repos\Лаб1.В6\obj\Debug\Лаб1.В6.pdb
+C:\Users\User\source\repos\Лаб1.В6\bin\Debug\Properties\Database1.mdf
+C:\Users\User\source\repos\Лаб1.В6\bin\Debug\Properties\Database1_log.ldf

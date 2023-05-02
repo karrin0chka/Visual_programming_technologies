@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Arkanoid\bin\Debug\Arkanoid.exe.config
+C:\Users\User\source\repos\Arkanoid\bin\Debug\Arkanoid.exe
+C:\Users\User\source\repos\Arkanoid\bin\Debug\Arkanoid.pdb
+C:\Users\User\source\repos\Arkanoid\obj\Debug\Arkanoid.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Arkanoid\obj\Debug\Arkanoid.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Arkanoid\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\Arkanoid\obj\Debug\App.g.cs
+C:\Users\User\source\repos\Arkanoid\obj\Debug\Arkanoid_MarkupCompile.cache
+C:\Users\User\source\repos\Arkanoid\obj\Debug\Arkanoid_MarkupCompile.lref
+C:\Users\User\source\repos\Arkanoid\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\Arkanoid\obj\Debug\Arkanoid.g.resources
+C:\Users\User\source\repos\Arkanoid\obj\Debug\Arkanoid.Properties.Resources.resources
+C:\Users\User\source\repos\Arkanoid\obj\Debug\Arkanoid.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Arkanoid\obj\Debug\Arkanoid.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Arkanoid\obj\Debug\Arkanoid.exe
+C:\Users\User\source\repos\Arkanoid\obj\Debug\Arkanoid.pdb

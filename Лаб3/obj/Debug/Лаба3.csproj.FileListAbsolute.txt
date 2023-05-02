@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Лаба3\bin\Debug\Лаба3.exe.config
+C:\Users\User\source\repos\Лаба3\bin\Debug\Лаба3.exe
+C:\Users\User\source\repos\Лаба3\bin\Debug\Лаба3.pdb
+C:\Users\User\source\repos\Лаба3\obj\Debug\Лаба3.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Лаба3\obj\Debug\Лаба3.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Лаба3\obj\Debug\Лаба3.Form1.resources
+C:\Users\User\source\repos\Лаба3\obj\Debug\Лаба3.Properties.Resources.resources
+C:\Users\User\source\repos\Лаба3\obj\Debug\Лаба3.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Лаба3\obj\Debug\Лаба3.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Лаба3\obj\Debug\Лаба3.exe
+C:\Users\User\source\repos\Лаба3\obj\Debug\Лаба3.pdb

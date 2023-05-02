@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Лаб2.В7\Лаб2.Календарь\obj\Debug\Лаб2.Календарь.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Лаб2.В7\Лаб2.Календарь\obj\Debug\Лаб2.Календарь.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Лаб2.В7\Лаб2.Календарь\obj\Debug\Лаб2.Календарь.Form1.resources
+C:\Users\User\source\repos\Лаб2.В7\Лаб2.Календарь\obj\Debug\Лаб2.Календарь.Properties.Resources.resources
+C:\Users\User\source\repos\Лаб2.В7\Лаб2.Календарь\obj\Debug\Лаб2.Календарь.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Лаб2.В7\Лаб2.Календарь\obj\Debug\Лаб2.Календарь.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Лаб2.В7\Лаб2.Календарь\bin\Debug\Лаб2.Календарь.exe.config
+C:\Users\User\source\repos\Лаб2.В7\Лаб2.Календарь\bin\Debug\Лаб2.Календарь.exe
+C:\Users\User\source\repos\Лаб2.В7\Лаб2.Календарь\bin\Debug\Лаб2.Календарь.pdb
+C:\Users\User\source\repos\Лаб2.В7\Лаб2.Календарь\obj\Debug\Лаб2.Календарь.exe
+C:\Users\User\source\repos\Лаб2.В7\Лаб2.Календарь\obj\Debug\Лаб2.Календарь.pdb
